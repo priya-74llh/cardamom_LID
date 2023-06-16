@@ -5,7 +5,7 @@ torchvision
 nltk
 numpy
 pandas
-sklearn
+scikit-learn
 keras
 tensorflow
 torchviz
