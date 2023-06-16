@@ -1,0 +1,11 @@
+transformers
+torch
+torchvision
+# huggingface_hub
+nltk
+numpy
+pandas
+sklearn
+keras
+tensorflow
+torchviz
